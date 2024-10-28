@@ -12,7 +12,7 @@ El objetivo de este rediseño es transformar la experiencia de ingreso de datos 
 
 - **Íconos animados**: Los íconos dentro del input incluyen animaciones sutiles que hacen que la interfaz sea más dinámica y respondan visualmente al usuario. Esto no solo mejora la usabilidad, sino que también aporta una experiencia más envolvente.
 
-  ![Ejemplo de iconos animados](images/animated_icons.gif)  
+  ![Ejemplo de iconos animados](https://i.postimg.cc/kMVxJsh2/icono.webp)  
   *Los íconos animados añaden dinamismo, mejorando la experiencia de usuario y la interactividad.*
 
 - **Paleta de colores temática**: Los tonos de blanco, azul y negro se combinan cuidadosamente para ofrecer un diseño elegante y fácil de leer, que guía al usuario de manera intuitiva a través del proceso de ingreso de datos.
