@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'KwDev'
+author 'KwDevv'
 description 'Rediseño QB-Input'
 version '1.0.0'
 
